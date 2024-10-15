@@ -1,0 +1,6 @@
+beds,baths,size,size_units,lot_size,lot_size_units,zip_code,price
+3,2.5,1500,sqft,3000,sqft,110001,8000000
+4,3.0,2200,sqft,5000,sqft,110002,12000000
+2,1.0,900,sqft,1500,sqft,110003,5000000
+3,2.0,1800,sqft,4000,sqft,110004,9500000
+5,4.0,3200,sqft,6000,sqft,110005,15000000
